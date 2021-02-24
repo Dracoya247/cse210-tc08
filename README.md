@@ -39,4 +39,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* # TODO: Add your names and emails here
+Aria Menke: men19011@byui.edu
