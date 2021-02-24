@@ -40,3 +40,6 @@ root                    (project root folder)
 ## Authors
 ---
 Aria Menke: men19011@byui.edu
+Michael Romero-Carbajal:
+Ezra Vizcarra: 
+Daniel Gomez: 
